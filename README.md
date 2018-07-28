@@ -17,7 +17,8 @@ There are three main scripts to know here: **ComputeTexture**, **ComputeTexture3
 * **3D ONLY** Texture 3D Slicer - compute shader that slices 3D textures to 2D layers, should be provided with the repo
 ## References
 * greje656 [for the wonderful compute shader noise functions][greje]
-* I can't seem to find it but there was a wonderful post on saving 3D Render Textures. If someone knows the post I'm talking about I would love to link it here.
+* Nesvi [for the 3D render texture save functions][nesvi]
 
 [clouds]: http://advances.realtimerendering.com/s2015/The%20Real-time%20Volumetric%20Cloudscapes%20of%20Horizon%20-%20Zero%20Dawn%20-%20ARTR.pdf
 [greje]: https://bitsquid.blogspot.com/2016/07/volumetric-clouds.html
+[nesvi]: http://answers.unity.com/answers/1243556/view.html
